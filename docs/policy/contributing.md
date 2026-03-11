@@ -5,7 +5,7 @@ Contributions to CrashSense are welcome — bug reports, feature requests, docum
 ## Development Setup
 
 ```bash
-git clone https://github.com/crashsense/crashsense.git
+git clone https://github.com/nano-step/crashsense.git
 cd crashsense
 npm install
 npm run build
@@ -52,7 +52,7 @@ Each package builds with [tsup](https://tsup.egoist.dev/) producing ESM, CJS, an
 
 ## Bug Reports
 
-Use [GitHub Issues](https://github.com/crashsense/crashsense/issues) with the following information:
+Use [GitHub Issues](https://github.com/nano-step/crashsense/issues) with the following information:
 
 - CrashSense version
 - Browser and version
@@ -63,7 +63,7 @@ Use [GitHub Issues](https://github.com/crashsense/crashsense/issues) with the fo
 
 ## Feature Requests
 
-Open a [GitHub Issue](https://github.com/crashsense/crashsense/issues) with the `feature` label. Describe:
+Open a [GitHub Issue](https://github.com/nano-step/crashsense/issues) with the `feature` label. Describe:
 
 - The problem you're trying to solve
 - Your proposed solution

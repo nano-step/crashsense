@@ -15,11 +15,11 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@crashsense/core"><img src="https://img.shields.io/npm/v/@crashsense/core?style=flat-square&color=cb0000&label=npm" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/@crashsense/core"><img src="https://img.shields.io/npm/dw/@crashsense/core?style=flat-square&color=cb0000&label=downloads" alt="npm downloads"></a>
-  <a href="https://github.com/hoainho/crashsense"><img src="https://img.shields.io/github/stars/hoainho/crashsense?style=flat-square&color=yellow" alt="GitHub stars"></a>
+  <a href="https://github.com/nano-step/crashsense"><img src="https://img.shields.io/github/stars/nano-step/crashsense?style=flat-square&color=yellow" alt="GitHub stars"></a>
   <a href="https://bundlephobia.com/package/@crashsense/core"><img src="https://img.shields.io/bundlephobia/minzip/@crashsense/core?style=flat-square&color=49a057&label=bundle" alt="bundle size"></a>
   <img src="https://img.shields.io/badge/dependencies-0-49a057?style=flat-square" alt="zero dependencies">
   <img src="https://img.shields.io/badge/TypeScript-first-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <a href="https://github.com/hoainho/crashsense/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT license"></a>
+  <a href="https://github.com/nano-step/crashsense/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT license"></a>
 </p>
 
 <br>
@@ -537,7 +537,7 @@ All monitoring uses passive browser APIs (`PerformanceObserver`, `MutationObserv
 ## Development
 
 ```bash
-git clone https://github.com/hoainho/crashsense.git
+git clone https://github.com/nano-step/crashsense.git
 cd crashsense
 npm install
 npm run build
@@ -571,7 +571,7 @@ Contributions are welcome. Whether it's a bug report, feature request, or pull r
 4. Push to the branch (`git push origin feat/amazing-feature`)
 5. Open a Pull Request
 
-See [open issues](https://github.com/hoainho/crashsense/issues) for ideas.
+See [open issues](https://github.com/nano-step/crashsense/issues) for ideas.
 
 ---
 
@@ -619,5 +619,5 @@ See [open issues](https://github.com/hoainho/crashsense/issues) for ideas.
 ---
 
 <p align="center">
-  <strong>If CrashSense saves you debugging time, <a href="https://github.com/hoainho/crashsense">⭐ star the repo</a> — it helps others find it.</strong>
+  <strong>If CrashSense saves you debugging time, <a href="https://github.com/nano-step/crashsense">⭐ star the repo</a> — it helps others find it.</strong>
 </p>

@@ -56,8 +56,8 @@ CrashSense never sends data to any third-party server. The SDK processes everyth
 
 CrashSense is fully open source under the MIT license. You can audit exactly what data is collected and how it is processed:
 
-- [GitHub Repository](https://github.com/crashsense/crashsense)
-- [Core Source Code](https://github.com/crashsense/crashsense/tree/main/packages/core)
+- [GitHub Repository](https://github.com/nano-step/crashsense)
+- [Core Source Code](https://github.com/nano-step/crashsense/tree/main/packages/core)
 
 ## Contact
 

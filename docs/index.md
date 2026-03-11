@@ -13,7 +13,7 @@ hero:
       link: /introduction/quick-start
     - theme: alt
       text: GitHub
-      link: https://github.com/crashsense/crashsense
+      link: https://github.com/nano-step/crashsense
 features:
   - title: OOM Recovery Detection
     details: Detect when the OS kills a tab due to memory exhaustion and recover full crash context — checkpoints, breadcrumbs, and pre-crash warnings — on the next page load.

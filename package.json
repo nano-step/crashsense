@@ -6,11 +6,11 @@
   "author": "hoainho <nhoxtvt@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoainho/crashsense.git"
+    "url": "git+https://github.com/nano-step/crashsense.git"
   },
-  "homepage": "https://github.com/hoainho/crashsense#readme",
+  "homepage": "https://github.com/nano-step/crashsense#readme",
   "bugs": {
-    "url": "https://github.com/hoainho/crashsense/issues"
+    "url": "https://github.com/nano-step/crashsense/issues"
   },
   "workspaces": [
     "packages/*"

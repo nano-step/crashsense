@@ -163,4 +163,4 @@ When the checkout button triggers a crash, CrashSense produces a report like:
 
 ## Source Code
 
-See the full source: [`examples/react-ecommerce/`](https://github.com/crashsense/crashsense/tree/main/examples/react-ecommerce)
+See the full source: [`examples/react-ecommerce/`](https://github.com/nano-step/crashsense/tree/main/examples/react-ecommerce)

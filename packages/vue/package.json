@@ -6,12 +6,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crashsense/crashsense.git",
+    "url": "git+https://github.com/nano-step/crashsense.git",
     "directory": "packages/vue"
   },
-  "homepage": "https://github.com/crashsense/crashsense/tree/main/packages/vue",
+  "homepage": "https://github.com/nano-step/crashsense/tree/main/packages/vue",
   "bugs": {
-    "url": "https://github.com/crashsense/crashsense/issues"
+    "url": "https://github.com/nano-step/crashsense/issues"
   },
   "keywords": [
     "crashsense",
